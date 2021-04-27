@@ -5,3 +5,9 @@ README.md
 #
 指向目录picture的链接<br>
 https://github.com/xin-lan/xinlan/blob/main/picture.md
+##
+指向program.md的链接<br>
+https://github.com/xin-lan/xinlan/blob/main/program.md
+###
+web图片<br>
+https://img1.baidu.com/it/u=2411541764,684505463&fm=26&fmt=auto&gp=0.jpg
